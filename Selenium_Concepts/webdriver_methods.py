@@ -9,7 +9,7 @@ def webdriver_methods():
     # verifying_page_title
     assert driver.title == "YouTube"
     # getting_page_source
-    print(driver.page_source)
+    print(driver.page_source[:100])
     # getting_page_url
     print(driver.current_url)
 

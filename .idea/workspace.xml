@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2482cb5b-17ca-40c5-a2c6-eb4ef5f9bc43" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Selenium_Concepts/webdriver_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Concepts/conditional_webdriver_methods.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Concepts/driver_initialization.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Concepts/driver_initialization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_Concepts/webdriver_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Concepts/webdriver_methods.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.conditional_webdriver_methods.executor": "Run",
     "Python.driver_initialization.executor": "Run",
     "Python.webdriver_methods.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
