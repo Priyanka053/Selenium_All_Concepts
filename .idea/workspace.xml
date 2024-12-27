@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2482cb5b-17ca-40c5-a2c6-eb4ef5f9bc43" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Selenium_Concepts/waits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Concepts/navigation_methods.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +42,8 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.conditional_webdriver_methods.executor": "Run",
     "Python.driver_initialization.executor": "Run",
+    "Python.navigation_methods.executor": "Run",
+    "Python.waits.executor": "Run",
     "Python.webdriver_methods.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
