@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2482cb5b-17ca-40c5-a2c6-eb4ef5f9bc43" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Selenium_Concepts/conditional_webdriver_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Concepts/waits.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Concepts/webdriver_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Concepts/webdriver_methods.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Selenium_Concepts/conditional_webdriver_methods.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
