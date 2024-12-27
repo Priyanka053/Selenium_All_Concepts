@@ -10,5 +10,4 @@ def driver_initialization():
 
     time.sleep(20)
 
-
 driver_initialization()
